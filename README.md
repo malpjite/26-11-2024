@@ -1,6 +1,5 @@
 # Fault Diagnosis and Classification for rotating machinery components using ML techniques on CWRU vibration dataset
 sửa lần 1
-<<<<<<< HEAD
 sửa lần 2
 The goal of this project is to detect and classify the different bearing faults based on the raw vibration data.  
 The data was obtained from Case Western Research University - Bearing Data Center https://engineering.case.edu/bearingdatacenter
